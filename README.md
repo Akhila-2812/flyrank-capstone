@@ -1,8 +1,8 @@
 # flyrank-capstone
   FlyRank AI Internship Capstone - Setup Phase with AI-assisted development
-## Tech Stack
+  ## Tech Stack
 - Node.js LTS
-- React / Next.js  
+- React / Next.js
 - Tailwind CSS
 - Claude Code / Cursor
 
@@ -10,3 +10,6 @@
 ```bash
 npm install
 npm run dev
+
+## Version 1.0
+Initial setup completed for FlyRank Capstone
