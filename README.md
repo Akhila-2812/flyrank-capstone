@@ -13,3 +13,11 @@ npm run dev
 
 ## Version 1.0
 Initial setup completed for FlyRank Capstone
+   ## About
+   FlyRank is an AI-powered platform to track and improve website rankings. 
+   Currently in FE-01: Project Setup Phase
+
+   ## Roadmap
+   - [x] FE-01: Environment & tooling setup
+   - [ ] FE-02: Core UI Components 
+   - [ ] FE-03: API Integration
